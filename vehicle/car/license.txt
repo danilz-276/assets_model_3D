@@ -1,0 +1,11 @@
+Model Information:
+* title:	1966 Shelby Cobra 427
+* source:	https://sketchfab.com/3d-models/1966-shelby-cobra-427-e4ad118e996c4c23b14f41a719f97415
+* author:	OUTPISTON (https://sketchfab.com/outpiston)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1966 Shelby Cobra 427" (https://sketchfab.com/3d-models/1966-shelby-cobra-427-e4ad118e996c4c23b14f41a719f97415) by OUTPISTON (https://sketchfab.com/outpiston) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Foxhound MRAP
+* source:	https://sketchfab.com/3d-models/foxhound-mrap-5b7dcb3a702d4551a4adb1ef4ee5fe21
+* author:	42manako (https://sketchfab.com/42manako)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Foxhound MRAP" (https://sketchfab.com/3d-models/foxhound-mrap-5b7dcb3a702d4551a4adb1ef4ee5fe21) by 42manako (https://sketchfab.com/42manako) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

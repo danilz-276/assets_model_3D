@@ -1,0 +1,11 @@
+Model Information:
+* title:	2017 Aston Martin Vantage AMR Pro
+* source:	https://sketchfab.com/3d-models/2017-aston-martin-vantage-amr-pro-28054fade43143e3b3f8d48705503d20
+* author:	OUTPISTON (https://sketchfab.com/outpiston)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2017 Aston Martin Vantage AMR Pro" (https://sketchfab.com/3d-models/2017-aston-martin-vantage-amr-pro-28054fade43143e3b3f8d48705503d20) by OUTPISTON (https://sketchfab.com/outpiston) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
